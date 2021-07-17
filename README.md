@@ -5,3 +5,5 @@ Conway's game of life implemented in Python using OpenCV
 - OpenCV (3.4.2)
 
 -> Automatically saves your run as a .avi file.
+
+![](GameOfLife.gif)
